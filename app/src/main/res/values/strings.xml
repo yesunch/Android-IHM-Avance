@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IHM Avance</string>
+    <string name="bt_show_name">finish</string>
+    <string name="hint_edit_name">please input your name</string>
+</resources>
